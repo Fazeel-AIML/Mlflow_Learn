@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/eca400875e914fc4b94c463834a757a8/artifacts
+deleted_time: 1739799557840
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eca400875e914fc4b94c463834a757a8
+run_name: delightful-shrimp-48
+run_uuid: eca400875e914fc4b94c463834a757a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739799459794
+status: 1
+tags: []
+user_id: Fazeel Asghar

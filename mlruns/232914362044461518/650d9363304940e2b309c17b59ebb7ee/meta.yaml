@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/232914362044461518/650d9363304940e2b309c17b59ebb7ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '232914362044461518'
+lifecycle_stage: active
+run_id: 650d9363304940e2b309c17b59ebb7ee
+run_name: casual-croc-559
+run_uuid: 650d9363304940e2b309c17b59ebb7ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739802147355
+status: 1
+tags: []
+user_id: Fazeel Asghar

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5669a3a8e4394e64811f5f751de05b7f/artifacts
+end_time: 1739799278184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5669a3a8e4394e64811f5f751de05b7f
+run_name: serious-boar-489
+run_uuid: 5669a3a8e4394e64811f5f751de05b7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739799240167
+status: 3
+tags: []
+user_id: Fazeel Asghar

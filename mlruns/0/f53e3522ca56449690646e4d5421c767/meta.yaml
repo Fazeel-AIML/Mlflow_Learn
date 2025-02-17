@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f53e3522ca56449690646e4d5421c767/artifacts
+deleted_time: 1739798366780
+end_time: 1739797446526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f53e3522ca56449690646e4d5421c767
+run_name: puzzled-panda-444
+run_uuid: f53e3522ca56449690646e4d5421c767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739797443836
+status: 4
+tags: []
+user_id: Fazeel Asghar

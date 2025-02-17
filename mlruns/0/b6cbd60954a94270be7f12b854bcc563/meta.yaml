@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b6cbd60954a94270be7f12b854bcc563/artifacts
+deleted_time: 1739798627882
+end_time: 1739798383086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b6cbd60954a94270be7f12b854bcc563
+run_name: skillful-flea-510
+run_uuid: b6cbd60954a94270be7f12b854bcc563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739798382844
+status: 4
+tags: []
+user_id: Fazeel Asghar
